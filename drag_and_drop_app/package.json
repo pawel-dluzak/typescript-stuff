@@ -1,0 +1,20 @@
+{
+  "name": "TS",
+  "version": "1.0.0",
+  "description": "TS Setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "A",
+  "license": "A",
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "typescript": "^4.4.3"
+  }
+}
